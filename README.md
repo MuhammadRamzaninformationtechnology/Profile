@@ -1,4 +1,5 @@
 Portfolio
+hr
 Welcome to My Dynamic Portfolio Website!
 Preview
 website
@@ -14,7 +15,7 @@ About Me: Dive into a captivating introduction that paints a vivid picture of wh
 
 **Contact**: Engage with me directly via email or through the seamless contact form integrated into the website. Whether you're a potential employer, collaborator, or enthusiast, I'm eager to connect and explore exciting opportunities together.
 
-🛠️** Technologies Used**
+**🛠️ Technologies Used**
 **Frontend:** HTML5, CSS3 (with Sass for enhanced styling), JavaScript (ES6+)
 **Frameworks/Libraries:** Bootstrap, React.js, Vue.js
 **Backend:**
@@ -30,7 +31,7 @@ Open the index.html file in your preferred web browser to experience the website
 
 Interested in contributing? Check out the CONTRIBUTING.md file for detailed guidelines and best practices.
 
-💬** Feedback**
+**💬 Feedback**
 Your feedback is invaluable in shaping the future of this portfolio website. Whether you have suggestions for improvement, ideas for new features, or simply want to share your thoughts, I'm eager to hear from you! Don't hesitate to open an issue or reach out to me directly.
 
 **🌐 Connect with Me**
